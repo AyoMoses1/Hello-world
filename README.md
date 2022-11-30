@@ -55,7 +55,6 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 I would like to thank Favour Ezeugwa for her contribution and reviews to highlight some quick fixed that needed to be addressed. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
